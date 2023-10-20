@@ -4,3 +4,5 @@ ingredients :
        Ghee:250g
        onion:1kg
        chicken:1kg
+       Cashew:100g
+       Tomato:1kg
